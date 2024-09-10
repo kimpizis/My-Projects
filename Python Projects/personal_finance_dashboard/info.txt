@@ -1,0 +1,1 @@
+streamlit run personal_finance_dashboard.py
